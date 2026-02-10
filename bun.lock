@@ -3,7 +3,7 @@
   "configVersion": 0,
   "workspaces": {
     "": {
-      "name": "solid-tailwind-ts-vite-template",
+      "name": "hytale-top-template",
       "dependencies": {
         "solid-js": "1.9.11",
       },
